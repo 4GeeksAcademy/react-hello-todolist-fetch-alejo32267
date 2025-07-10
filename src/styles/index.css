@@ -28,3 +28,6 @@ input{
   width: 600px;
   margin: 0 auto;
 }
+*{
+  background-color: azure;
+}
