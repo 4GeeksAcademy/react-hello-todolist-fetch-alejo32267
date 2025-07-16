@@ -31,3 +31,8 @@ input{
 *{
   background-color: azure;
 }
+
+.button{
+    border: 2px solid;
+    background: rgba(167, 101, 101, 0.445);
+}
